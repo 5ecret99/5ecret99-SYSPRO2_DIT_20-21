@@ -11,7 +11,6 @@ commands:
 
 tested on: linux mint(my personal computer),linux university machines
 
-To programma aptous elegxous mou doulevei gia olles tis periptwseis pou den einai akrees(to exw dokimasei me 20+ monitor buffer 1 sizeofBloom 100000 se 70000 records) kai den kanei timed out to poll.Exw simperilavi sxolia ston kwdika gia olo ton neo kwdika pou e3igoun ti kanw kata gramma,opotan to 8ewrisa fliaro na grafw ta idia kai sto Readme.
 
 arxeia:
 
