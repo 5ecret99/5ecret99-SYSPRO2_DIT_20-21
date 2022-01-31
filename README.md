@@ -1,4 +1,4 @@
-SDI:1115201800220 GEORGIOS GEORGIOU
+
 
 commands:
 	travelMonitor:
